@@ -1,0 +1,32 @@
+#info {
+    display: flex;
+    background-color: rgb(141, 197, 235);
+    border: 3px solid blue;
+    padding: 10px;
+    justify-content: center;
+    margin: 20px auto;
+    width: 60%;
+}
+h1 {
+    color: rgb(251, 251, 255);
+    border: 3px solid rgb(4, 4, 49);
+    background-color: blue;
+    margin: 20px auto;
+    text-align: center;
+    width: 60%;
+    
+}
+strong {
+    text-decoration: underline;
+
+}
+p {
+    color: blue;
+}
+#info div {
+    margin-left: 20px;
+    border: 2px solid blue;
+    padding: 5px;
+
+}
+
